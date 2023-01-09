@@ -12,6 +12,7 @@
 
 ## Skill
 
+<li>Analise de Negócios</li>
 <li>Desenvolvedor Backend</li>
 <li>Conhecimento em Infra</li>
 <li>LGPD</li>
