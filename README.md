@@ -7,7 +7,7 @@
 </h2>
 
 <h4 align="left">
-<br>Trabalho com informática a mais de 20 anos, so louco por café ☕ e movido por desafios.
+<br>Trabalho com informática a mais de 20 anos, sou louco por café ☕ e movido por desafios.
 </h4>
 
 ## Skill
