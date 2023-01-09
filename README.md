@@ -27,9 +27,10 @@
 <li>HTML</li>
 
 ## Infra
-<li>Virtualização Vmware vSphere 6 Cloud privada</li>
-<li>AWS, Azure, Office 365, ERP TOTVS RM Basico</li>
-<li>programação backend</li>
+<li>Vmware vSphere 6 Cloud privada</li>
+<li>AWS</li>
+<li>Azure</li>
+<li>Office 365</li>
 <li>Windows Server: 2008, 2012, 2016</li>
 <li>Linux</li>
 
@@ -42,10 +43,11 @@
 <li>UML</li>
 <li>Prototipagem: Figma</li>
 <li>metodologia ágil</li>
+<li>TOTVS RM Basico</li>
 
 ## Contato
 
-<h5 align="left">
+<h4 align="left">
 <br> Linkedin : https://www.linkedin.com/in/cesar-lima-infra/
 <br> Whatsapp : https://bit.ly/github_cesarlima
-</h5>
+</h4>
