@@ -1,6 +1,6 @@
 <!-- Sobre Mim -->
 ## <img src="https://raw.githubusercontent.com/cesarrl78/img/main/img01.gif" width="38px"></img> Sobre Mim
-@@ -16,8 +17,8 @@
+
 
 <h2 align="left">
 <br>Me chamo Cesar Lima
