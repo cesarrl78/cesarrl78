@@ -17,7 +17,9 @@
 <li>LGPD</li>
   
 ## Banco de Dados
-<li>Conhecimento em banco de dados relacional Oracle 11</li>
+<li>Oracle</li>
+<li>Mysql</li>
+<li>SQL Server</li>
 <li>PL/SQL : trigger, view, procedure, querys em geral</li>
 
 ## Programação
