@@ -46,7 +46,7 @@
 <li>UML</li>
 <li>Prototipagem: Figma</li>
 <li>metodologia ágil</li>
-<li>TOTVS RM Basico</li>
+<li>RM Basico</li>
 
 ## Contato
 
