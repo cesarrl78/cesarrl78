@@ -11,10 +11,10 @@
 </h4>
 
 ## Skill
-
+<li>Suporte</li>
 <li>Analise de Negócios</li>
-<li>Desenvolvedor Backend</li>
-<li>Conhecimento em Infra</li>
+<li>Infraestrutura</li>
+<li>Programação</li>
 <li>LGPD</li>
   
 ## Banco de Dados
@@ -24,18 +24,19 @@
 <li>PL/SQL : trigger, view, procedure, querys em geral</li>
 
 ## Programação
+<li>Desenvolvedor Back-end</li>
 <li>PHP Frameworks Laravel</li>
 <li>Asp Classic</li>
 <li>Java</li>
 <li>HTML</li>
 
 ## Infra
-<li>Vmware vSphere 6 Cloud privada</li>
-<li>AWS</li>
+<li>Vmware vSphere Cloud privada</li>
 <li>Azure</li>
 <li>Office 365</li>
 <li>Windows Server: 2008, 2012, 2016</li>
 <li>Linux</li>
+<li>Firewall</li>
 
 ## Analise de Negócios
 <li>Bizage</li>
