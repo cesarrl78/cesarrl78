@@ -29,6 +29,8 @@
 <li>Asp Classic</li>
 <li>Java</li>
 <li>HTML</li>
+<li>Delphi</li>
+<li>React</li>
 
 ## Infra
 <li>Vmware vSphere Cloud privada</li>
