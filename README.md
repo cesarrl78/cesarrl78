@@ -12,7 +12,7 @@
 
 ## Resumo profissional
 
-Tenho uma sólida experiência em diversas áreas, incluindo Centro de Processamento de Dados (CPD) e Provedor de Internet, desempenhando funções variadas, como Analista de Sistemas, Coordenador de Projetos e Suporte em ambientes de Infraestrutura. Minhas habilidades abrangem desde o entendimento profundo das Regras de Negócios e compliance com a LGPD até a elaboração de Documentação Técnica abrangente.
+Tenho uma sólida experiência em diversas áreas, incluindo Centro de Processamento de Dados (CPD) e Provedor de Internet, desempenhando funções variadas, como Analista de Negocios, Analista de Sistemas, Coordenador de Projetos e Suporte em ambientes de Infraestrutura. Minhas habilidades abrangem desde o entendimento profundo das Regras de Negócios e compliance com a LGPD até a elaboração de Documentação Técnica abrangente.
 Destaco minha expertise na implantação de sistemas em ambientes de Homologação e Produção, utilizando tecnologias como Virtualização (VMware, Cloud privada, Azure) e serviços corporativos como o Office 365. Além disso, possuo amplo conhecimento em sistemas de gestão empresarial, como RM, e em Bancos de Dados relacionais, incluindo Oracle, SQL Server, MySQL e PL/SQL.
 Minha competência em programação abrange diversas linguagens, como PHP, Asp Classic, Delphi, HTML, XML, UML e Prototipagem. Adicionalmente, possuo experiência sólida em administração de servidores, tanto em ambientes Windows Server quanto Linux, e expertise em aspectos de segurança, incluindo Firewall, monitoramento com Zabbix, Zendesk estratégias de Backup e aplicação de Metodologia Ágil em projetos.
 
